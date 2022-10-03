@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erick-rui
 - 👀 I’m interested in software engineering and data science
-- 🌱 I’m currently learning artificial intelligence and mobile app development
+- 🌱 I’m currently learning machine learning and server management
 - 📫 How to reach me: erick.123ruilova@gmail.com
 
 <!---
